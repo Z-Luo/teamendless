@@ -1,12 +1,48 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My COSC1078 Home Page</title>
-  </head>
-  <body>
-    <h1>Welcome to my website</h1>
-    <p>s3839954</p>
-    <p>COSC1078 is a fun course!</p>
-  </body>
+<head>
+<style>
+body {
+  background-color: DimGrey;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: Gainsboro;
+}
+
+h3 {
+  color: Silver;
+}
+h4 {
+  color: Silver;
+}
+p, ul, li {
+  font-family: palatino, candara, arial, verdana;
+}
+</style>
+</head>
+<body>
+<h1>Plans and progress</h1>
+<p>Plans</p>
+<p>
+As the project idea previously revealed. We were planned to create a VR game called ‘The End’. This game has a similar theme to ‘Red Dead Redemption’ which is an open world action adventure VR type game. It is a game for the player enters the adventure story of the western wilderness. The player does not need to use the mouse and keyboard to operate the game. Instead, they use virtual reality technology to bring players into this virtual world. The game will bring real vision and hearing to players. Such as riding a horse, gliding wings, and being able to interact freely with things in space. Here, players around the world will be on the same server. To achieve this, there are many steps that is required.
+The first step is to learn about the foundation of building a game, we need to have some skills in graphic design software such as Adobe Photoshop, Adobe Illustrator and CorelDRAW. Also, Pixel art such as 3dxmax, Pixlr and GrafX2 used to make character models and architectural images that focus on game programming foundation and game production principles. (https://kaoshi.china.com/vr_px_31740-1.htm) Because it is necessary to understand the principles of game design, as well as software foundation and rendering. To achieve this step, the action we will be taking is to begin to take basic public lesson, this includes learning it from various websites such as Youtube, Bilibili about the functions the graphic design software has and game planning, production, testing and operation practices, as well as game industry planning and professional quality. Also, participating in online classes or reading articles are great choices as well. These steps of the plan can lay the foundation for future VR game design.
+The next step is to get familiar with VR language development which is the language of the 3D programming engine. VR cannot be developed without 3D engine support. Therefore, plans of learning Unity/ 3Dx Max modelling is a must. How do we plan to learn it? The first step is to first understand the menu and view interface of unity3d. These are the most basic foundations and can be operated like a word. The second step is to understand the coordinate system, input system, and simple vector concepts in the scene. The third step is to learn some basic concepts of creating basic scenes: game objects, components, and scripts. The fourth step is to learn some basic elements of resource import: mesh, material, texture, animation, etc. The sixth step is to further study the camera, lighting, terrain, rendering, particle system, physics system, etc. (https://baike.baidu.com/item/Unity3D/3064002?fr=aladdin) Unity3D is a multi-platform comprehensive game development tool developed by Unity Technologies that allows players to easily create interactive content such as 3D video games, architectural visualizations, real-time 3D animations, etc. It is a fully integrated professional game engine. (http://www.eepw.com.cn/article/201608/295413.htm) By learning the basics of Unity3D program development, we can be skilled in 3D game development technology combat, game engine modification and use of network communication, database and game server. (https://wenku.baidu.com/view/546234e4f4335a8102d276a20029bd64783e629e.html) We will also be using Unreal engine, which is a game engine developed by Epic Games because it is easier for us as the entry barrier will be lower. To achieve this step, the action we will be taking is to take lessons online or participate in practical training from schools. Therefore,  another major plan for us is to use the correct game engine for this virtual reality game as choosing the right game engine can better handle the communication between the player and the computer, and handle signals from other controllers. 
+As we planned to use Unity/ 3Dmax engine for our VR game called ‘The End’. We will be proficient in various programming languages. Game program development mainly includes general C++, C# skills. But for this one, we need to know some C# programming language It is because Unity requires a certain programming foundation to use. C# programming language is a safe, stable, simple, and elegant object-oriented programming language derived from C and C++. (https://baike.baidu.com/item/c%23/195147?fr=aladdin) Therefore, it is necessary to learn. But we are not learning from scratch, because there is a little Java language foundation, I believe we will learn faster. Learning C# is like how we are currently learning Java. We can get resources from online. Knowing codes by reading C# language programming books. Also, watching video tutorials online is an option as well.
+For creating the scene and how the virtual world react to the players in the game ‘The End’. In more detail, the scene will be made up by simple solids piled up like Lego to form a striking scene. The virtual world is made up of thousands of individual objects, which are then moved to Autodesk’s 3ds Max to process the calculate how they will be lit so that they can pop up when added to the completed project. Also, for our game, we will bring all the components built in the block into Epic Games' Unreal Engine, using blueprints to add logic and interaction so that this virtual world can react to players behaviour. For non-professional producers, the blueprint allows them to skip the difficult process of learning programming languages to encode and directly edit the logic and interactivity of the virtual world response through simple and convenient methods. Thanks to the use of the game engine, without the help of these two engines in some steps, it will take longer to complete ‘The End’ (https://baijiahao.baidu.com/s?id=1584742024630913326&wfr=spider&for=pc) 
+The final step will be the use of the Peripherals and the controllers, which is the preparation of Cooperation between the operation of VR games and VR hardware. Having VR hardware is very important because it increases the user experience by giving them more immersion and interaction. VR glasses are the most basic peripherals. The VR handle is also necessary, it can be used to control the movement of characters and make actions. The integrated head-mounted display device has an independent processor and has its own independent computing power. It is more convenient to use. There is no need to prepare additional equipment, the degree of freedom is relatively high, and the price Also cantered, generally around 600-1000 dollars. External head-mounted display device This is the most technical product in the VR industry. The product is more complex and requires a computer to be connected via a data cable. The price is relatively high, basically around 2000 dollars (https://www.zhihu.com/question/35942279). Therefore this one is not considered. Now, many VR games (including ‘The End’) all support the room tracking mode, players can move freely within a certain range, but there are also many players who are in a small space, it is difficult to obtain a better game experience, (https://www.huahuo.com/vr/201910/36436.html) therefore, it is needed for our VR game. Here comes the problem, these peripherals are not cheap. For this project, we will probably rent them because this is the most cost-effective way.
+</p>
+<p>Progress</p>
+<p>
+When the plans are all set. It is time for action. For our group, we are all studying at RMIT as freshmen major in either computer science/ information technology or computing studies. For our first thing to do is that we need to learn more about programming languages as we are currently undertaking JAVA learning at this stage.
+</p>
+
+
+
+
+
+</body>
 </html>
+
