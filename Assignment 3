@@ -63,8 +63,10 @@ We use different methods to complete special effects. Create special effects wit
 The final game test is very important. When there is a problem with the game screen, we should first check whether it is an external cause such as bad network, bad hardware, system problems, etc. At the same time, the Unity debugger can detect the code at runtime. Unity uses MonoDevelop IDE to debug scripts in the game. It can debug all languages supported by the engine (JavaScript, C / C ++, etc.). The sound test is also important. The sound in VR moves with the angle of view, and the accuracy of sound positioning is very high. The importance of sound is no less than the picture. The high-performance sound card can parse the audio very well, which is convenient for sound judgment and positioning.
 
 </p>
-
-
+<p>Tools and Technologies</p>
+<p>
+In order to realize the development of VR games, C ++, C # and JS are necessary software for programming. UE4 is suitable for scene construction, Substance Painter is suitable for textures, Maya and 3D Max are very good modeling software. During the entire VR game production process, Substance Painter, Maya, 3D Max, UE 4, and other professional software used by the development team are very hardware intensive. In order to ensure quality and efficiency, and to solve the unique difficulties of VR game development, the development of "End" is also Requires a computer with powerful overall performance. Especially in the processing of specific links such as textures, models, and light rendering, there are also editing levels, browsing levels, and even some level effects, and the VR headset used for "End" hardware selection is HTC Vive, with a resolution of 2160x1200. Therefore, in terms of computer hardware, we selected the CPU to be I7-7700, 32GB graphics card, and dual-channel Titan Z to achieve a comfortable and smooth production and testing experience, and provide guarantee for the testing of VR hardware.
+</P>
 
 
 
