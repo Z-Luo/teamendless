@@ -1,0 +1,60 @@
+html{
+    box-sizing: border-box;    
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    
+}
+#header {
+    position: relative;
+    background-image: url(shutterstock_106583426.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+    text-align: center;
+    padding: 7.5em 0 2em 0;
+    cursor: default;
+}
+ul{
+    margin-bottom: 1em;
+}
+div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1.5em 0 1.5em 0;
+    z-index: 1;
+    overflow: hidden;
+}
+nav{
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;   
+}
+#nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1.5em 0 1.5em 0;
+    z-index: 1;
+    overflow: hidden;
+}
+body{
+    color: #5b5b5b;
+    background: #f0f4f4;
+    background-image: url(shutterstock_106583426.jpg);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 12pt;
+    line-height: 1.5em;
+}
