@@ -21,6 +21,22 @@ h4 {
 p, ul, li {
   font-family: palatino, candara, arial, verdana;
 }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 </style>
 </head>
 <body>
@@ -118,7 +134,9 @@ In order to realize the development of VR games, C ++, C # and JS are necessary 
 
 <p>There is also a risk that our idea in the project may not be enough to complete with other competitor on the market. There are already a volume of VR game on the market. Most of them are created by professional with lots of experience in this industry. Therefore, with us freshman carrying out the first project in such field, failure is almost inevitable. But this will be a good opportunity to learn from this and improve next time.</p>
 
-<p>Timeframe</p>
+
+
+<h1>Timeframe</h1>
 <table>
 
 <tr>
@@ -151,7 +169,7 @@ done Detailed description, Trung and Rithvik have done project description. </th
 </tr>
 
 <tr>
-<th>week 12/th>
+<th>week 12</th>
 <th>For week 12, all of our group members met via Microsoft Teams again which improves communication.
 At present, we have begun to make models of certain characters and environments in the
  game. The production of game characters will enrich the details of the model through
@@ -254,6 +272,7 @@ because our budget is not enough. </th>
 our and having them to tell us what they feel and listening to their suggestions. 
 Then we could celebrate our achievements we have done!</th>
 </tr>
+</table>
 
 <h2>Group processes and communications</h2>
 <p>Our group had already learned a lesson in the last assignment,
