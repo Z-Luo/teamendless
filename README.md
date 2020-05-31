@@ -30,17 +30,17 @@
          <p>https://www.nextgyn.com/societal-impact-virtual-reality/</p>
          <p>https://en.wikipedia.org/wiki/Video_game_development</p>
          <p>https://study.com/articles/Game_Designer_Job_Info_and_Requirements_for_Becoming_a_Game_Designer.html</p>
-    <p>https://study.com/article_directory/q_p/page/Computer%20Sciences/q_p/Careers_and_Occupations_List.html</p>
-    <p>https://study.com/articles/Game_Developer_Job_Description_Duties_and_Requirements.html</p>
-    <p>https://targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description</p>
-    <p>https://www.indeed.com/viewjob?jk=b2f3ea0bd38722d7&tk=1e9fpt5a22vuf000&from=serp&vjs=3</p>
-    <p>https://blog.soundsnap.com/2019/07/22/5-tips-for-breaking-into-game-audio/</p>
-    <p>https://darkhorseinstitute.com/video-game-sound-designer/</p>
-    <p>https://www.gamedesigning.org/learn/video-game-sound/</p>
-    <p>https://www.geteducated.com/career-center/how-to-become-a-video-game-tester/</p>
-    <p>https://www.seek.com.au/job/41318326?type=standout#searchRequestToken=ecef3e83-4e54-4532-889c-3511c2e60c6a</p>
-    <p>https://www.researchgate.net/publication/238555198_The_Potential_Societal_Impact_of_Virtual_Reality</p>
-    
+         <p>https://study.com/article_directory/q_p/page/Computer%20Sciences/q_p/Careers_and_Occupations_List.html</p>
+         <p>https://study.com/articles/Game_Developer_Job_Description_Duties_and_Requirements.html</p>
+         <p>https://targetjobs.co.uk/careers-advice/job-descriptions/455349-video-game-developer-job-description</p>
+         <p>https://www.indeed.com/viewjob?jk=b2f3ea0bd38722d7&tk=1e9fpt5a22vuf000&from=serp&vjs=3</p>
+         <p>https://blog.soundsnap.com/2019/07/22/5-tips-for-breaking-into-game-audio/</p>
+         <p>https://darkhorseinstitute.com/video-game-sound-designer/</p>
+         <p>https://www.gamedesigning.org/learn/video-game-sound/</p>
+         <p>https://www.geteducated.com/career-center/how-to-become-a-video-game-tester/</p>
+         <p>https://www.seek.com.au/job/41318326?type=standout#searchRequestToken=ecef3e83-4e54-4532-889c-3511c2e60c6a</p>
+         <p>https://www.researchgate.net/publication/238555198_The_Potential_Societal_Impact_of_Virtual_Reality</p>
+         <p>https://www.vrs.org.uk/virtual-reality/how-does-it-affect-us.html</p>
     <p>COSC1078 is a fun course!</p>
   </body>
 </html>
