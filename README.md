@@ -36,7 +36,8 @@
     <p>https://www.indeed.com/viewjob?jk=b2f3ea0bd38722d7&tk=1e9fpt5a22vuf000&from=serp&vjs=3</p>
     <p>https://blog.soundsnap.com/2019/07/22/5-tips-for-breaking-into-game-audio/</p>
     <p>https://darkhorseinstitute.com/video-game-sound-designer/</p>
-    
+    <p>https://www.gamedesigning.org/learn/video-game-sound/</p>
+      
     <p>COSC1078 is a fun course!</p>
   </body>
 </html>
