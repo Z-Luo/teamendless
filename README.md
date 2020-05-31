@@ -26,6 +26,7 @@
          <P>https://en.wikipedia.org/wiki/Regression_testing</P>
          <P>https://schoolofgamedesign.com/project/play-test-game-design/</P>
          <P>https://www.testbirds.com/use-ca</P>
+         <p>https://au.indeed.com/Graphic-Designer-jobs-in-Melbourne-VIC</p>
     <p>COSC1078 is a fun course!</p>
   </body>
 </html>
