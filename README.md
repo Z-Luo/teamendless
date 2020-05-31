@@ -38,6 +38,7 @@
     <p>https://darkhorseinstitute.com/video-game-sound-designer/</p>
     <p>https://www.gamedesigning.org/learn/video-game-sound/</p>
     <p>https://www.geteducated.com/career-center/how-to-become-a-video-game-tester/</p>
+    <p>https://www.seek.com.au/job/41318326?type=standout#searchRequestToken=ecef3e83-4e54-4532-889c-3511c2e60c6a</p>
     
     <p>COSC1078 is a fun course!</p>
   </body>
