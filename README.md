@@ -27,6 +27,7 @@
          <P>https://schoolofgamedesign.com/project/play-test-game-design/</P>
          <P>https://www.testbirds.com/use-ca</P>
          <p>https://au.indeed.com/Graphic-Designer-jobs-in-Melbourne-VIC</p>
+         <p>https://www.nextgyn.com/societal-impact-virtual-reality/</p>
     <p>COSC1078 is a fun course!</p>
   </body>
 </html>
