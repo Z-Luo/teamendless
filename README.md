@@ -29,6 +29,7 @@
          <p>https://au.indeed.com/Graphic-Designer-jobs-in-Melbourne-VIC</p>
          <p>https://www.nextgyn.com/societal-impact-virtual-reality/</p>
          <p>https://en.wikipedia.org/wiki/Video_game_development</p>
+         <p>https://study.com/articles/Game_Designer_Job_Info_and_Requirements_for_Becoming_a_Game_Designer.html</p>
     <p>COSC1078 is a fun course!</p>
   </body>
 </html>
