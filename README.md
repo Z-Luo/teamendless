@@ -31,6 +31,7 @@
          <p>https://en.wikipedia.org/wiki/Video_game_development</p>
          <p>https://study.com/articles/Game_Designer_Job_Info_and_Requirements_for_Becoming_a_Game_Designer.html</p>
     <p>https://study.com/article_directory/q_p/page/Computer%20Sciences/q_p/Careers_and_Occupations_List.html</p>
+    <p>https://study.com/articles/Game_Developer_Job_Description_Duties_and_Requirements.html</p>
     
     <p>COSC1078 is a fun course!</p>
   </body>
